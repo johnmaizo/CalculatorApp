@@ -25,7 +25,7 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Calculator app using React and SASS | Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-x65sxK2t1i)
+- Solution URL: [Calculator app using React and SASS | Frontend Mentor](https://www.frontendmentor.io/solutions/calculator-app-using-react-js-and-sass-LifoZD8i92)
 - Live Site URL: [https://calculator-app-johnmaizo.netlify.app/](https://calculator-app-johnmaizo.netlify.app/)
 
 <br>
