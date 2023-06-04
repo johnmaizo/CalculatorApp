@@ -6,10 +6,10 @@
 
   <h2 align="center">Calculator app</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://clipboard-landing-page-johnmaizo.netlify.app/">View Demo</a>
+    <a href="https://calculator-app-johnmaizo.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -17,16 +17,16 @@
 
 <div align="center">
 
-![](./design/desktop-design.jpg)
+![](./design/desktop-preview.jpg)
 
 </div>
 
-This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
 - Solution URL: [Calculator app using React and SASS | Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-x65sxK2t1i)
-- Live Site URL: [https://clipboard-landing-page-johnmaizo.netlify.app/](https://clipboard-landing-page-johnmaizo.netlify.app/)
+- Live Site URL: [https://calculator-app-johnmaizo.netlify.app/](https://calculator-app-johnmaizo.netlify.app/)
 
 <br>
 
